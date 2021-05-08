@@ -1,0 +1,42 @@
+
+ .nav{
+	display: flex;
+    justify-content: space-between;
+}
+
+
+.items ul {
+	 display: flex;
+	 padding-left: 25%;
+
+
+}
+ 
+.items ul li{
+	margin-left: 50px;
+	display: block;
+	text-decoration-color: white;
+
+
+}
+ 
+.placeholder {
+	margin-top: 150px;
+	margin-left: 6%;
+	column-width: 100%;
+
+
+}
+button{
+	width: 200px;
+
+}
+ 
+ 
+body{
+ 	background-image: url(glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg);
+ 	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+color: white;
+ }
